@@ -1,0 +1,21 @@
+.comp {
+    -fx-border-color: #009933 ;
+    -fx-background-color: #66696E ;
+   
+    
+    
+}
+.password{
+     -fx-border-color: #009933 ;
+    -fx-background-color: #66696E ;
+    -fx-text-fill: #FFFFFF ;
+}
+.layout{
+   -fx-border-color: #009933 ;
+    -fx-background-color: #66696E ;
+}
+.btn{
+     -fx-border-color: #009933 ;
+    -fx-background-color: #66696E ;
+    -fx-text-fill: #FFFFFF ;
+}
